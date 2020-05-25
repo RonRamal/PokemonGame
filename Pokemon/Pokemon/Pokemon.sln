@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Pokemon(1)", ".", "{99D1DCFA-225A-4FB3-AF8D-C6128DF18647}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49958"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Pokemon\Pokemon\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49958\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49958"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Pokemon\Pokemon\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49958\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49958"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D1DCFA-225A-4FB3-AF8D-C6128DF18647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D1DCFA-225A-4FB3-AF8D-C6128DF18647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3797D213-A17C-4756-AA14-06134742EE24}
+	EndGlobalSection
+EndGlobal
